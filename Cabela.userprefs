@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{64F80F2F-2C1F-4A1E-987E-A445B7CA9C12}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Cabela/Tests.cs">
+    <Files>
+      <File FileName="Cabela/AppInitializer.cs" Line="32" Column="5" />
+      <File FileName="Cabela/Tests.cs" Line="34" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Cabela" expanded="True">
+            <Node name="Cabela" expanded="True">
+              <Node name="Cabela" expanded="True">
+                <Node name="Tests" expanded="True">
+                  <Node name="Tests(Android)" expanded="True">
+                    <Node name="FirstTest" selected="True" />
+                  </Node>
+                  <Node name="Tests(iOS)" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Cabela PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
