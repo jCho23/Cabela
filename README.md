@@ -1,14 +1,14 @@
 # Cabela
 Test Automation Scripts for Cabela
 
-#Authors
+# Authors
 
 **June Cho**
 <br>
 *Microsoft Technical Solutions Professional*
 
 
-#License
+# License
 
 MIT License
 
